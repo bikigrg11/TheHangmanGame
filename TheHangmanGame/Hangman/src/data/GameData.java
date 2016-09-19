@@ -36,6 +36,10 @@ public class GameData implements AppDataComponent {
         this.remainingGuesses = TOTAL_NUMBER_OF_GUESSES_ALLOWED;
     }
 
+    public AppTemplate getAppTemplate(){
+        return this.appTemplate;
+    }
+
     @Override
     public void reset() {
         this.targetWord = null;
