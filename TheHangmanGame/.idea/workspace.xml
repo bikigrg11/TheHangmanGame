@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9b0663a-0c8a-4f20-b0ed-f6f2067b7be5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dictionaries/rbanerjee.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Hangman/controller/HangmanController$1.class" afterPath="$PROJECT_DIR$/out/production/Hangman/controller/HangmanController$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Hangman/controller/HangmanController.class" afterPath="$PROJECT_DIR$/out/production/Hangman/controller/HangmanController.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Hangman/data/GameData.class" afterPath="$PROJECT_DIR$/out/production/Hangman/data/GameData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TheHangmanGame.iws" />
@@ -685,12 +677,20 @@
       <updated>1473714937951</updated>
       <workItem from="1473714941635" duration="362000" />
       <workItem from="1473715863130" duration="22586000" />
-      <workItem from="1473966431003" duration="50838000" />
+      <workItem from="1473966431003" duration="50867000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit&#10;">
+      <created>1474298139072</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1474298139073</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73786000" />
+    <option name="totallyTimeSpent" value="73815000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -734,6 +734,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
